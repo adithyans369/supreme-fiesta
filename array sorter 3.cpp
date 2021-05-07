@@ -38,7 +38,7 @@ int main()
        
         cout<<"a"<< "[" << i << "]"<< "= " << a[i] << endl;
     }
-    cout << "   \t   \t ****************************GOT THE ANSWER ? THEN GO AND FUCK UP:)****************************"<<endl;
+ 
     }
     return 0;
 }
